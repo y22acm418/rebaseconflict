@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This f2.txt file is added at remote location
+=======
+this is f2.txt file is added in feature branch
+>>>>>>> 496ebe5 (f2.txt added in feature branch)
